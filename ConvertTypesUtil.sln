@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertUtils", "ConvertUtils.csproj", "{FCEF12B9-2127-4207-9110-030D0F007FB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertTypesUtil", "ConvertTypesUtil.csproj", "{FCEF12B9-2127-4207-9110-030D0F007FB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertTypesUtilTests", "..\ConvertUnitsTests\ConvertTypesUtilTests.csproj", "{448D5928-C631-45CF-9012-EE37A0F8A154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FCEF12B9-2127-4207-9110-030D0F007FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCEF12B9-2127-4207-9110-030D0F007FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCEF12B9-2127-4207-9110-030D0F007FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448D5928-C631-45CF-9012-EE37A0F8A154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448D5928-C631-45CF-9012-EE37A0F8A154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448D5928-C631-45CF-9012-EE37A0F8A154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448D5928-C631-45CF-9012-EE37A0F8A154}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
