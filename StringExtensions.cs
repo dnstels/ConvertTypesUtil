@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Runtime.CompilerServices;
 
-namespace ConvertUtils
+namespace ConvertTypesUtil
 {
     public static class StringExtensions
     {
